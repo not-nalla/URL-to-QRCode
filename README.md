@@ -1,5 +1,4 @@
 # URL to QR Code Generator
-
 This is a simple Python project that generates a QR code from a user-provided URL.
 
 ** Features **
